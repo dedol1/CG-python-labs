@@ -6,7 +6,7 @@
 
  Install and configure text editor of your choise to serve as an environment for your programming 
 
- Are you done with this exercise? This exercise might be hard for you depending on your familiarity with
+Are you done with this exercise? This exercise might be hard for you depending on your familiarity with
 your computer. If it is difficult, take the time to read and study and get through it, because until you can
 do these very basic things you will find it difficult to get much programming done.
 If someone tells you to stop at a specific exercise in this labs or to skip certain ones, you should ignore
