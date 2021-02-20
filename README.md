@@ -2,9 +2,9 @@
  
  # prerequisites:
 
- Install python 3.9 on your machine and configure it to run in terminal
+* Install python 3.9 on your machine and configure it to run in terminal
 
- Install and configure text editor of your choise to serve as an environment for your programming 
+* Install and configure text editor of your choise to serve as an environment for your programming 
 
 Are you done with this exercise? This exercise might be hard for you depending on your familiarity with
 your computer. If it is difficult, take the time to read and study and get through it, because until you can
